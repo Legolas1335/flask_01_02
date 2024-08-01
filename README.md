@@ -1,1 +1,1 @@
-# flask_01_02
+# flask_01_02 ilk kopya 
